@@ -1,0 +1,7 @@
+{
+  "name": "neuropad",
+  "version": "0.1.0",
+  "scripts": {
+    "deploy:agent": "ts-node scripts/deploy-agent.ts"
+  }
+}
